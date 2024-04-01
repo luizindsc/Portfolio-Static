@@ -1,0 +1,52 @@
+.container {
+    padding: 16px;
+    margin-right: 50vh;
+    margin-left: 50vh;
+}
+
+h2 {
+    color: #e36c1e;
+}
+
+
+.photos {
+    display: flex;
+    flex-direction: row;
+}
+
+.container p {
+    font-size: 20px;
+}
+
+.container img {
+    max-width: 380px;
+}
+
+.container a {
+    color: #e36c1e;
+}
+
+.header {
+    display: flex;
+    padding: 16px;
+    margin-left: 50vh;
+    margin-right: 50vh;
+}
+
+.header h1 {
+    margin-right: 100px;
+}
+
+.navbar a{
+    display: inline-block;
+    font-size: 25px;
+    padding: 16px;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+* {
+    background-color: #1e1f21;
+    color: white;
+}
+
